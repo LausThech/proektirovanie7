@@ -7,7 +7,7 @@
 <body>
 	
 	<div class="center">
-<form action="script.php" method="post">
+<form action="lab7script.php" method="post">
 <div ><p class="inline-block">Введите значение x</p>
 <input class="inline-block w25 border-input" type="text" name="x" ></div>
 <div ><p class="inline-block">Введите значение n</p>
